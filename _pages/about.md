@@ -10,7 +10,5 @@ redirect_from:
 I'm a second-year master's student from [School of CS](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). 
 
 My major is computer science and technology.
-
 My research interest includes Artificial Intelligence, Computer Vision and Remote Sensing. 
-
 I am very fortunate to be advised by [Prof. Xia](http://www.captain-whu.com/zh/person/xiaguisong.html) of Captain Lab!
