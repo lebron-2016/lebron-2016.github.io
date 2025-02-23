@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<br>
+<br>
 I'm a second-year master's student from [School of CS](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). 
 My major is computer science and technology.
 My research interest includes Artificial Intelligence, Computer Vision and Remote Sensing. 
